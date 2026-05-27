@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    name: Compilar en producción
+    name: Prod build
     runs-on: ubuntu-latest
 
     steps:
