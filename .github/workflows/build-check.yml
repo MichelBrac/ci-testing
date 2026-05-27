@@ -1,4 +1,4 @@
-name: Build Check (Production)
+name: Prod build check
 
 on:
   pull_request:
