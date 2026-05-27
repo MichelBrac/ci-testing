@@ -7,7 +7,7 @@ on:
 
 jobs:
   analyze:
-    name: Analizar con CodeQL
+    name: CodeQL
     runs-on: ubuntu-latest
     permissions:
       security-events: write
